@@ -1,4 +1,4 @@
-# Laboratorio I | Desarrollo de Software II
+# Laboratorio II | Desarrollo de Software II
 
 Estructuras de datos y algoritmos
 
